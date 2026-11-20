@@ -2,7 +2,7 @@
 
 Simulation and analysis code for the Q-learning results in Eschenbaum and Meylahn (2026), Auditing Algorithmic Collusion from Strategy Graphs, arXiv:2608.07098.
 
-The agents are the Q-learning algorithm of Calvano et al. (2020). The agent and the environment port the Haskell implementation in open-games-learning by Philipp Zahn.
+The agents are the Q-learning algorithm of Calvano et al. (2020).
 
 
 ## Files
