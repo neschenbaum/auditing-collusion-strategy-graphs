@@ -1,0 +1,11 @@
+# Outputs of runs and analyses
+runs/
+analysis_outputs/
+paper_content/
+
+# Python
+__pycache__/
+*.py[cod]
+
+# Logs
+*.log
